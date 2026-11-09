@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-I'm Guillermo Fuentes — Engineering leader with 8+ years of experience driving platform modernization, AI-enabled development, and product transformation across multidisciplinary teams.
+I'm Guillermo Fuentes — Engineering leader with 10+ years of experience driving platform modernization, AI-enabled development, and product transformation across multidisciplinary teams.
 
 - 🔭 Engineering leadership across DevEx, AI-powered developer tools, DevOps, DevSecOps, and platform engineering
 - 🎓 Doctor in Advanced Computing Technologies (BizDevOps & Enterprise Architecture), with 4 peer-reviewed papers
 - 🚀 Focused on platform engineering, cloud cost optimization, and AI agent orchestration
 - 🌍 Based in Spain, working remotely
+
+### Featured work
+
+- 🌐 **[GFQ Lab](https://gfqlab.com)** — my personal site and portfolio: Astro + Tailwind CSS, static output on a Cloudflare Worker.
+- 🍽️ **[Re-Comiendo](https://re-comiendo.es)** — multi-tenant SaaS for restaurants: public website, digital menu, reservations, orders, and admin panel, built on Cloudflare Workers, React, D1, and R2.
+- 🚒 **[Bomberos Gestión](https://github.com/guillermofuentesgfq/bomberos-gestion)** — open-source, self-hosted inventory, personnel, and public-site system for fire brigades in Chile.
 
 ### Tech Stack
 
@@ -40,4 +46,5 @@ I'm Guillermo Fuentes — Engineering leader with 8+ years of experience driving
 - AI-Enabled Development, LLM Integration, Developer Experience (DevEx), Internal Developer Platforms (IDP)
 
 ### Get in touch
-- 📫 [GitHub](https://github.com/guillermofuentesgfq) · [LinkedIn](https://www.linkedin.com/in/guillermofuentesgfq)
+- 🌐 [gfqlab.com](https://gfqlab.com) · [GitHub](https://github.com/guillermofuentesgfq) · [LinkedIn](https://www.linkedin.com/in/guillermofuentesgfq)
+- 🚀 [Re-Comiendo](https://re-comiendo.es) · [Bomberos Gestión](https://github.com/guillermofuentesgfq/bomberos-gestion)
